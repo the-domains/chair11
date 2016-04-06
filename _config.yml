@@ -1,0 +1,28 @@
+name: Chair11
+favicon: null
+layout_spectrum: 0.6362793918233365
+typography_spectrum: 0.18194981548003852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6578511062543839
+  lightness: 0.8496245781425387
+  saturation: 0.6380112341139466
+  rhythmicContrast: 0.38254653359763324
+purpose: []
