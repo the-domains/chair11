@@ -1,7 +1,7 @@
 name: Chair11
 favicon: null
-layout_spectrum: 0.6362793918233365
-typography_spectrum: 0.18194981548003852
+layout_spectrum: 0.89368
+typography_spectrum: 0.07188
 title: Chair 11
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#11120c'
+    - '#c6c9b8'
+    - '#a3ac8f'
+    - '#7f8498'
+    - '#7b5212'
   brandStrength: 0.6578511062543839
-  lightness: 0.8496245781425387
+  lightness: 0.75
   saturation: 0.6380112341139466
-  rhythmicContrast: 0.38254653359763324
+  rhythmicContrast: 0.75
 purpose: []
